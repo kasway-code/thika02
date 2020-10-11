@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "thikathani",
+    'name': "Thika Thani Mall",
 
     'summary': """
         Modulo personalizado para ThikaThani Mall""",
@@ -31,4 +31,6 @@
     'demo': [
         'demo/demo.xml',
     ],
+    'application': True,
+    'installable': True,
 }
